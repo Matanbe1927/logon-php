@@ -1,0 +1,26 @@
+
+VC_2008_SP1_ATL_SEC_UPD_REDIST_X86 ID={1F1C2DFC-2D24-3E06-BCB8-725134ADF989}
+Visual C++ 2008 SP1 ATL Security (x86)
+**** NOT INSTALLED ****
+Installation file is on: http://wampserver.aviatechno.net
+VC 2008 SP1 ATL Package (x86)
+----------------------------------------
+VC_2008_SP1_MFC_SEC_UPD_REDIST_X86 ID={9BE518E6-ECC6-35A9-88E4-87755C07200F}
+Visual C++ 2008 SP1 MFC Security Update (x86)
+**** NOT INSTALLED ****
+Installation file is on: http://wampserver.aviatechno.net
+VC 2008 SP1 MFC Package (x86)
+----------------------------------------
+VC_2008_SP1_ATL_SEC_UPD_REDIST_X64 ID={4B6C7001-C7D6-3710-913E-5BC23FCE91E6}
+Visual C++ 2008 SP1 ATL Security Update (x64)
+**** NOT INSTALLED ****
+Installation file is on: http://wampserver.aviatechno.net
+VC 2008 SP1 ATL Package (x64)
+----------------------------------------
+VC_2008_SP1_MFC_SEC_UPD_REDIST_X64 ID={5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}
+Visual C++ 2008 SP1 MFC Security (x64)
+**** NOT INSTALLED ****
+Installation file is on: http://wampserver.aviatechno.net
+VC 2008 SP1 MFC Package (x64)
+----------------------------------------
+
